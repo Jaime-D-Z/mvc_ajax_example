@@ -1,1 +1,1 @@
-# mvc_ajax_example
+Proyecto MVC, PHP, MYSQL, AJAX
